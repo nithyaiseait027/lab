@@ -1,5 +1,6 @@
 mani()
 {
 	printf();
+	scanf();
 }
 
